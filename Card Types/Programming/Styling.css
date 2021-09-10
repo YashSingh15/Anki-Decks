@@ -1,0 +1,16 @@
+.card {
+ font-family: arial;
+ font-size: 30px;
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+
+.hint {
+font-size: 10px;
+color: blue;
+}
+
+textarea {
+    height: 80px;
+}
